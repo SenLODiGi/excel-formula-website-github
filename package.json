@@ -13,10 +13,10 @@
     "@radix-ui/react-slot": "^1.2.2",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "date-fns": "^3.3.1",
+    "date-fns": "^4.1.0", // Upgrade to match build log
     "lucide-react": "^0.510.0",
     "react": "^18.3.1",
-    "react-day-picker": "^8.10.1",
+    "react-day-picker": "^9.0.4", // Upgrade to support date-fns@4.x
     "react-dom": "^18.3.1",
     "tailwind-merge": "^3.3.0"
   },
